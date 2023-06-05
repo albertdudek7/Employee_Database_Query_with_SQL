@@ -1,5 +1,13 @@
 # sql-challenge
 
+Had a brief tutor session with Peter Osipchuk and he helped me to make sure I was adding the tables in the right order (I had some errors specifically with the departments table earlier). He also hinted to make sure I add the appropriate Primary Keys and Foreign Keys for the tables. 
+
+From Slack conversation with Instructor Shaun McPeck and Aaron Schneberger, Aaron Otto, was given a hint that each table needs to have its own primary key. (under a question posted by Kendal Bergman).
+
+Additionally insight on how to map the ERD was given from Aaron Otto and Aaron Schneberger.. referencehd the specific type of relationships used in their diagrams. 
+
+
+
 Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
