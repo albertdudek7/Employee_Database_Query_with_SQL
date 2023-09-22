@@ -4,22 +4,10 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-Before You Begin
-Create a new repository for this project called sql-challenge. Do not add this assignment to an existing repository.
+![image](https://github.com/albertdudek7/sql-challenge/assets/127783844/42a0086e-abad-4b6b-aed4-f6410d66dd7d)
 
-Clone the new repository to your computer.
 
-Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as EmployeeSQL.
 
-Note that you’ll add your files to this folder and push the changes to GitHub.
-
-Files
-Download the following files to help you get started:
-
-Module 9 Challenge filesLinks to an external site.
-
-Instructions
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
